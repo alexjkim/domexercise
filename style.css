@@ -1,0 +1,47 @@
+ul {
+  background: #9da0a3;
+  padding: 20px;
+}
+
+ul li {
+  background: #d7dbde;
+  margin: 5px;
+  list-style-type: none;
+}
+
+
+p {
+  color: #393a3b
+}
+
+.bookcoverimg{
+	height: 50px;
+	width: 50px;
+}
+
+.alreadyread{
+	color: #a4a7ab
+}
+
+.booktagread{
+	font-size:12px;
+	font-style:italic;
+}
+
+div .bookcover{
+	display: inline;
+}
+
+div .booktitle{
+	display: inline-block;
+	font-size: 18px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+div .bookauthor{
+	font-size: 14px;
+	font-style: italic;
+	font-weight: normal;
+}
+
