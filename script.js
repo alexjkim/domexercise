@@ -31,8 +31,6 @@ const bookelementList = document.createElement("ul");
 htmlelement.appendChild(bookelementList);
 
 
-console.log(htmlelement);
-
 for (const book of books){ 
 	console.log(book.title);
 	//Create new paragraph DOM element
